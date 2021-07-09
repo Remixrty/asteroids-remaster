@@ -1,0 +1,9 @@
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\bin\Debug\asteroids remaster.exe.config
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\bin\Debug\asteroids remaster.exe
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\bin\Debug\asteroids remaster.pdb
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\obj\Debug\asteroids_remaster.Form1.resources
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\obj\Debug\asteroids_remaster.Properties.Resources.resources
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\obj\Debug\asteroids remaster.csproj.GenerateResource.cache
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\obj\Debug\asteroids remaster.csproj.CoreCompileInputs.cache
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\obj\Debug\asteroids remaster.exe
+C:\Users\remix\source\repos\asteroids remaster\asteroids remaster\obj\Debug\asteroids remaster.pdb
